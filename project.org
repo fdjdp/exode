@@ -1,0 +1,5 @@
+* Expression du design
+** TODO écrire une charte du thème du jeu
+** TODO écrire une charte des design goals du jeu (mécanismes, sensations de joueurs, ...)
+** TODO écrire une description des mécanismes imaginés au cours des précédentes itérations, évaluer leurs forces et faiblesses
+** TODO 

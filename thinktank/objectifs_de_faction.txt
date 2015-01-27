@@ -1,0 +1,5 @@
+Supposons :
+- le jeu est terminé et gagné lorsqu'un joueur se trouve dans un état en particulier, qui correspond à son objectif.
+- les objectifs sont visibles et associés à chaque faction
+
+* 

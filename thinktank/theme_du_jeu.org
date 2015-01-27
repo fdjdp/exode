@@ -1,0 +1,27 @@
+THEME
+
+* Pitch
+Alors que l'humanité commençait tout juste à se donner les moyens d'explorer et de coloniser la galaxie, un conflit majeur a éclaté entre ses factions les plus influentes. Le conflit ravagea le système solaire et les factions développèrent indépendament les unes des autres leur propre programme de colonisation.
+Ce jeu suit le développement de ces nouvelles colonies qui se sont développées dans l'isolement et se voient forcées après des générations de reprendre le contact avec les autres factions au cours de leur exploration de la galaxie.
+
+** Je joue une faction qui a une histoire, des points forts sources de fierté, et des points faibles qui ont causé un cataclysme
+** Je joue une civilisation en plein essor, à la conquète des mondes habitables de la galaxie
+** Je redécouvre mes anciens ennemis au cours de mon expansion. Je devrai décider de la façon dont je les traiterai.
+
+* Sensations de jeu
+** C'est un 4X
+- Explore : je découvre de nouvelles planètes. Ces planètes ont des caractéristiques particulières qui les rendent différentes les unes des autres.
+- Expand : je fournis des efforts et développe mon plan de jeu pour augmenter ma présence sur le plateau, notamment au travers d ela colonisation de planètes
+- Exploit : je monte une stratégie de long terme pour arriver à la victoire. Je me sers des planètes sur lesquelles j'ai le contrôle ainsi que d'autres outils fournis par le jeu (diplomacie, société, ...)
+- Exterminate : à l'occasion, j'entre en conflit militaire avec un autre joueur. Ce conflit n'est cependant jamais éliminatoire. Je ne le mène que parce qu'il me permet de prendre l'ascendant sur une planète ou parce que mon objectif me l'impose.
+
+** Société
+** Technologie et science fiction
+** Diplomacie
+** Le risque de second conflit
+
+* Science Fiction
+** Niveau Technologique
++ Le voyage FTL a été développé.
++ Le génôme humain a été décodé et est largement manipulable. Le seul blocage est l'éthique de la faction.
+
